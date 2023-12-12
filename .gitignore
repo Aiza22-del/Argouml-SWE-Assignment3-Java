@@ -1,0 +1,6 @@
+*~
+/src_generated
+/build
+/build-eclipse
+/target
+.idea
